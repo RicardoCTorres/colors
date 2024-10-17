@@ -1,23 +1,7 @@
 body {
   font-size: 22px;
-}
-p {
-  color: purple;
-}
-.gray {
-  color: gray;
-}
-#second {
-  font-style: italic;
-}
-h1,
-h2 {
-  color: blue;
-}
-p span {
-  text-transform: uppercase;
-  background-color: gold;
-}
-* {
-  font-family: monospace;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  background-color: papayawhip;👈
+  color: #333
 }
